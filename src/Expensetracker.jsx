@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './ExpenseTracker.css';
+import './expensetracker.css';
 
 const ExpenseTracker = () => {
     const [input, setInput] = useState('');
